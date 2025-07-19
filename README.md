@@ -5,7 +5,7 @@
 
 1. Склонируйте данный проект к себе в директорию
 	```bash
-	git clone https://github.com/exodess/s21_sprintf.git
+	git clone https://github.com/exodess/s21_sprintf
 	```
 2. Запустите сборку данного проекта
 	```bash
